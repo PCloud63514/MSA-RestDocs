@@ -1,2 +1,4 @@
 rootProject.name = 'msa-rest-docs'
+include 'applications'
+include 'components'
 
