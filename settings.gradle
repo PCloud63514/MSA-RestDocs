@@ -1,4 +1,8 @@
 rootProject.name = 'msa-rest-docs'
 include 'applications'
 include 'components'
+include 'app-product'
+findProject(':app-product')?.name = 'app'
+include 'applications:app-product'
+findProject(':applications:app-product')?.name = 'app-product'
 
