@@ -1,4 +1,0 @@
-rootProject.name = 'SmartPass'
-include 'Applications'
-include 'components'
-
