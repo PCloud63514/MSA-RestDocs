@@ -18,6 +18,6 @@ DDD  + TDD + Hexagonal Architecture
 
 ![My First Board - Event Storming-step1](https://user-images.githubusercontent.com/22608825/150511857-4cf66d3f-8dd0-49bf-ae91-f0c5e60de279.jpg)
 
-### Boris
+### Snap-E
 
 ![My First Board - Frame 1](https://user-images.githubusercontent.com/22608825/150511889-558fe199-7cbc-4811-ab44-bf42758c3536.jpg)
