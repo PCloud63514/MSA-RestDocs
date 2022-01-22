@@ -1,4 +1,6 @@
 rootProject.name = 'Source'
 include 'applications'
 include 'components'
+include 'components:department'
+findProject(':components:department')?.name = 'department'
 
