@@ -1,3 +1,5 @@
+package org.pcloud.exceptionsupport;
+
 public enum StatusCode implements IStatusCode {
     SYSTEM_ERROR(500, "SY001", "서버와 통신이 원활하지 않습니다.");
 
