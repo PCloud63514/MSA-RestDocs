@@ -5,4 +5,6 @@ include 'components:department'
 findProject(':components:department')?.name = 'department'
 include 'components:exception-support'
 findProject(':components:exception-support')?.name = 'exception-support'
+include 'components:network-support'
+findProject(':components:network-support')?.name = 'network-support'
 
