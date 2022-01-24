@@ -1,6 +1,6 @@
 # Source
 
-DDD  + TDD + Hexagonal Architecture
+DDD  + TDD + AppContinuum Architecture
 
 
 
