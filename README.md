@@ -8,11 +8,11 @@ DDD  + TDD + AppContinuum Architecture
 
 ### Event Storming Sticker
 
-![My First Board - Event Storming Sticker](https://user-images.githubusercontent.com/22608825/150508439-0bdfa970-513e-475e-9f44-f0971de64ec8.jpg)
+![My First Board - Event Storming Sticker](https://user-images.githubusercontent.com/22608825/150895147-24dde946-eb5c-4c54-bc87-6bf99667bc93.jpg)
 
 ### Event Storming Guide Line
 
-![My First Board - Event Storming 순서](https://user-images.githubusercontent.com/22608825/150511794-6d9d4a65-3038-4828-ab38-51c720374171.jpg)
+![My First Board - Event Storming 순서 (1)](https://user-images.githubusercontent.com/22608825/150895145-b906c818-888c-447c-9f9c-417a838ac386.jpg)
 
 ### Event Storming Example (Step1)
 
