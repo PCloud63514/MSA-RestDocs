@@ -8,4 +8,6 @@ include 'applications:test-app'
 findProject(':applications:test-app')?.name = 'test-app'
 include 'applications:app-test'
 findProject(':applications:app-test')?.name = 'app-test'
+include 'components:administrator'
+findProject(':components:administrator')?.name = 'administrator'
 
