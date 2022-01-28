@@ -8,4 +8,6 @@ include 'components:exception-support'
 include 'components:network-support'
 include 'components:payment'
 include 'components:order'
+include 'components:item'
+findProject(':components:item')?.name = 'item'
 

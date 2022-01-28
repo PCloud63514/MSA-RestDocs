@@ -5,6 +5,9 @@ import lombok.Value;
 
 import java.time.LocalDateTime;
 
+/**
+ * Order의 기본 정보를 포함한 클래스
+ */
 @Value
 public class OrderInformation {
     /**
