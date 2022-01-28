@@ -4,9 +4,8 @@ include 'applications:app-test'
 include 'applications:app-event'
 
 include 'components'
-include 'components:department'
 include 'components:exception-support'
 include 'components:network-support'
 include 'components:payment'
-findProject(':components:payment')?.name = 'payment'
+include 'components:order'
 
