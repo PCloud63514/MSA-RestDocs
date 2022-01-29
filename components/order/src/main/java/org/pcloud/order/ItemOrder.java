@@ -4,7 +4,7 @@ import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
 import lombok.NonNull;
 import lombok.Value;
-import org.pcloud.item.ItemInformation;
+import org.pcloud.item.model.ItemInformation;
 
 @Value
 @AllArgsConstructor

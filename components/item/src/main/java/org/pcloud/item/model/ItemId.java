@@ -1,4 +1,4 @@
-package org.pcloud.item;
+package org.pcloud.item.model;
 
 import lombok.NonNull;
 import lombok.Value;

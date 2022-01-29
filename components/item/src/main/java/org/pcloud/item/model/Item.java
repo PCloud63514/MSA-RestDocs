@@ -1,4 +1,4 @@
-package org.pcloud.item;
+package org.pcloud.item.model;
 
 public interface Item {
 
